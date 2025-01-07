@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a fourth-year Computer Science student graduating with a B.S. in May 2025 and M.S. in May 2026.
+I'm a fourth-year Computer Science student graduating with a B.S. in May 2025.
 
 - 💡 <b>Experience :</b> Agile Methodologies, API Development, Tool Development, Game Development, Data Signal Processing
 - 💬 <b>Languages :</b> C++, Python, C#, Java, JavaScript
