@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Julia! 👋
 
 <!--
 **julwang3/julwang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a fourth-year Computer Science student graduating with a B.S. in May 2025 and M.S. in May 2026.
+
+- 💡 <b>Experience :</b> Agile Methodologies, API Development, Tool Development, Game Development, Data Signal Processing
+- 💬 <b>Languages :</b> C++, Python, C#, Java, JavaScript
+- 🛠️ <b>Tools & Frameworks :</b> Git, Perforce, Unity 2D/3D, Maya, Jira, Confluence, Bitbucket
