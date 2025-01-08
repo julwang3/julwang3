@@ -20,4 +20,4 @@ I'm a fourth-year Computer Science student graduating with a B.S. in May 2025.
 - 💬 <b>Languages :</b> C++, Python, C#, Java, JavaScript
 - 🛠️ <b>Tools & Frameworks :</b> Git, Perforce, Unity 2D/3D, Maya, Jira, Confluence, Bitbucket, Agile Methodologies
 
-[Website](https://julwang3.github.io/)
+<a href="https://julwang3.github.io/" target="_blank">Website</a>
